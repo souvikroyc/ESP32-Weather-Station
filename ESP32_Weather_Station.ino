@@ -1,3 +1,6 @@
+// this is an arduino code for ESP32 for weather station
+// version 3.1
+
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
 #include <Wire.h>
